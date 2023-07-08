@@ -12,7 +12,7 @@ yarn dev
 pnpm dev
 ```
 
-npm install for dependencies
+Use npm install for dependencies
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
